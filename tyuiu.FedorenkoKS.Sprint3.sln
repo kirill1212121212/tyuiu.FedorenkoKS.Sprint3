@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.FedorenkoKS.Sprint3.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tyuiu.FedorenkoKS.Sprint3.Task7.V7.Test", "tyuiu.FedorenkoKS.Sprint3.Task7.V7.Test\tyuiu.FedorenkoKS.Sprint3.Task7.V7.Test.csproj", "{B0FEADE5-CA75-42DE-8C73-6AB3F1442EC4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProstoPapka", "ProstoPapka", "{E7E5A38E-59BB-4789-82D8-BFBDFC1A1E6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
